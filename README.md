@@ -5,7 +5,7 @@ Here's all About me
 - 👯 I’m looking to collaborate on Pandas or Numpy
 - 🤔 I’m looking for help with everything literally
 - 💬 Ask me about anything I guess
-- 📫 How to reach me: [Twitter] https://twitter.com/darklike2am
+- 📫 How to reach me: [Twitter](https://twitter.com/darklike2am)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Send me a DM and I'll tell you how i got the nickname 
 -->
